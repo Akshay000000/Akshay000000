@@ -105,17 +105,7 @@ Basketball — Winners, School-level & Intra IIIT-K Sports Meet 2023
 Microsoft Azure AI Engineer Associate — Certified (Valid: July 2025 – July 2026)
 ```
 
----
 
-<div align="center">
-
-![Akshay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akshay000000&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay000000&layout=compact&theme=dark&hide_border=true&langs_count=8)
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/akshaysriram?theme=dark&font=Nunito&ext=contest)
-
-</div>
 
 ---
 
