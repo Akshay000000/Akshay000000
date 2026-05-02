@@ -1,12 +1,11 @@
-# AkshaySriram
 <div align="center">
 
 # Bhaskara Akshay Sriram
 
 ### CS + AI/DS @ IIIT Kottayam '27 &nbsp;·&nbsp; Builder · Researcher · Competitor
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/akshay-sriram-6b8215296/?skipRedirect=true))
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)]([https://leetcode.com/your-link](https://leetcode.com/u/akshaysriram/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Akshay000000)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Akshay000000)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshaysriram.b@gmail.com)
 [![Azure Certified](https://img.shields.io/badge/Azure_AI_Engineer_Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/users/akshaysriram-1455/credentials/certification/azure-ai-engineer)
 
@@ -19,7 +18,7 @@
 ```
 B.Tech CSE (AI & Data Science) — IIIT Kottayam, Class of 2027
 Microsoft Certified: Azure AI Engineer Associate
-Competitive Programmer — 350+ LeetCode problems solved (Contest rating 1630+)
+Competitive Programmer — 350+ LeetCode problems solved
 Hackathon Builder — Varroc Eureka 3.0 & Smart India Hackathon
 Powerlifting Champion — IIIT-K Sports Meet 2026
 ```
@@ -112,6 +111,6 @@ Hybrid quantum-classical deep learning model for medical image classification.
 
 *"Well-engineered AI should solve real problems, not just demonstrate capability."*
 
-![Visitor Count](https://komarev.com/ghpvc/?username=your-github-username&color=0078D4&style=flat-square)
+![Visitor Count](https://komarev.com/ghpvc/?username=Akshay000000&color=0078D4&style=flat-square)
 
 </div>
