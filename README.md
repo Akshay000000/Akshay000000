@@ -29,7 +29,7 @@ I build **end-to-end AI systems** — from computer vision pipelines and real-ti
 
 ## `> ls projects/`
 
-###  Two-Wheeler Driving Behavior Scorer
+### Two-Wheeler Driving Behavior Scorer
 > **Varroc Eureka 3.0 Hackathon** &nbsp;|&nbsp; `Python · OpenCV · YOLOv8 · FastAPI · React · NumPy`
 
 Real-time ADAS system that scores two-wheeler riding behavior **0–100** with live video analysis.
@@ -42,7 +42,7 @@ Real-time ADAS system that scores two-wheeler riding behavior **0–100** with l
 
 ---
 
-###  Cal Clone — Scheduling Platform
+### Cal Clone — Scheduling Platform
 > `Next.js 14 · TypeScript · PostgreSQL · Prisma · Tailwind CSS · Nodemailer`
 
 Full-stack Cal.com-style scheduling app with production-grade architecture.
@@ -55,7 +55,7 @@ Full-stack Cal.com-style scheduling app with production-grade architecture.
 
 ---
 
-###  Quantum-Enhanced Medical Image Diagnostics
+### Quantum-Enhanced Medical Image Diagnostics
 > `Python · TensorFlow/Keras · Qiskit · NumPy · Pandas`
 
 Hybrid quantum-classical deep learning model for medical image classification.
@@ -97,20 +97,30 @@ Hybrid quantum-classical deep learning model for medical image classification.
 ## `> cat achievements.txt`
 
 ```
-  Varroc Eureka 3.0 Hackathon — Built ADAS scoring system (Problem Statement 3)
-  Smart India Hackathon 2024 — Participant
-  Powerlifting — Winner, Intra IIIT-K Sports Meet 2026
-  Basketball — Winners, School-level & Intra IIIT-K Sports Meet 2023
-  350+ LeetCode problems solved (DSA)
-  Microsoft Azure AI Engineer Associate — Certified (Valid: July 2025 – July 2026)
+Varroc Eureka 3.0 Hackathon — Built ADAS scoring system (Problem Statement 3)
+Smart India Hackathon 2024 — Participant
+Powerlifting — Winner, Intra IIIT-K Sports Meet 2026
+Basketball — Winners, School-level & Intra IIIT-K Sports Meet 2023
+350+ LeetCode problems solved (DSA)
+Microsoft Azure AI Engineer Associate — Certified (Valid: July 2025 – July 2026)
 ```
 
 ---
 
 <div align="center">
 
-*"Well-engineered AI should solve real problems, not just demonstrate capability."*
+![Akshay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akshay000000&show_icons=true&theme=dark&hide_border=true)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Akshay000000&color=0078D4&style=flat-square)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay000000&layout=compact&theme=dark&hide_border=true)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/akshaysriram?theme=dark&font=Nunito&ext=contest)
 
 </div>
+
+---
+
+## `> contact --me`
+
+Got a project idea, research opportunity, or just want to connect?
+
+**Email** — [akshaysriram.b@gmail.com](mailto:akshaysriram.b@gmail.com)
