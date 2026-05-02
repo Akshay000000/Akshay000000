@@ -8,6 +8,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/akshaysriram/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshaysriram.b@gmail.com)
 [![Azure Certified](https://img.shields.io/badge/Azure_AI_Engineer_Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/users/akshaysriram-1455/credentials/certification/azure-ai-engineer)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ff6a00?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-akshay-sriram.vercel.app)
 
 </div>
 
@@ -24,6 +25,8 @@ Powerlifting Champion — IIIT-K Sports Meet 2026
 ```
 
 I build **end-to-end AI systems** — from computer vision pipelines and real-time backends to full-stack dashboards. My work spans automotive, healthcare, aerospace, and education, with a focus on solutions that are technically rigorous and practically deployable.
+
+> **Check out my full portfolio:** [portfolio-akshay-sriram.vercel.app](https://portfolio-akshay-sriram.vercel.app)
 
 ---
 
@@ -105,7 +108,17 @@ Basketball — Winners, School-level & Intra IIIT-K Sports Meet 2023
 Microsoft Azure AI Engineer Associate — Certified (Valid: July 2025 – July 2026)
 ```
 
+---
 
+<div align="center">
+
+![Akshay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akshay000000&show_icons=true&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay000000&layout=compact&theme=dark&hide_border=true)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/akshaysriram?theme=dark&font=Nunito&ext=contest)
+
+</div>
 
 ---
 
@@ -114,3 +127,5 @@ Microsoft Azure AI Engineer Associate — Certified (Valid: July 2025 – July 2
 Got a project idea, research opportunity, or just want to connect?
 
 **Email** — [akshaysriram.b@gmail.com](mailto:akshaysriram.b@gmail.com)
+
+**Portfolio** — [portfolio-akshay-sriram.vercel.app](https://portfolio-akshay-sriram.vercel.app)
