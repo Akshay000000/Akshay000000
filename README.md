@@ -4,8 +4,8 @@
 
 ### CS + AI/DS @ IIIT Kottayam '27 &nbsp;·&nbsp; Builder · Researcher · Competitor
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Akshay000000)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Akshay000000)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/Akshay000000](https://www.linkedin.com/in/akshay-sriram-6b8215296/?skipRedirect=true))
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)]([https://leetcode.com/Akshay000000](https://leetcode.com/u/akshaysriram/))
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshaysriram.b@gmail.com)
 [![Azure Certified](https://img.shields.io/badge/Azure_AI_Engineer_Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/users/akshaysriram-1455/credentials/certification/azure-ai-engineer)
 
