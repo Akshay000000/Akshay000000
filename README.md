@@ -118,4 +118,3 @@ Got a project idea, research opportunity, or just want to connect?
 
 **Email** — [akshaysriram.b@gmail.com](mailto:akshaysriram.b@gmail.com)
 
-**Portfolio** — [portfolio-akshay-sriram.vercel.app](https://portfolio-akshay-sriram.vercel.app)
