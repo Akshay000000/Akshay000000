@@ -96,7 +96,6 @@ Full-stack Cal.com-style scheduling app with production-grade architecture.
 - Submitted attendance PRs to `meshery/meshery` for weekly Newcomers meetings
 - Active engagement on issues [#19092](https://github.com/meshery/meshery/issues/19092) (AI Adapter), [#19012](https://github.com/meshery/meshery/issues/19012) (CI Pipelines), [#19419](https://github.com/meshery/meshery/issues/19419) (GitHub Actions), [#18751](https://github.com/meshery/meshery/issues/18751), [#18753](https://github.com/meshery/meshery/issues/18753)
 - Responded to leecalcote's call for Meshery MCP Server volunteer maintainers on the Layer5 developers mailing list
-- Applying for **LFX CNCF Mentorship 2026 Term 2** — Meshery AI Adapter + Agentic CI Pipelines projects
 
 ---
 
